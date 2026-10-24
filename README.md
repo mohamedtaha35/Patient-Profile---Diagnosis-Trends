@@ -1,4 +1,4 @@
-# Patient Analytics & Clinical Operations Dashboard
+# Patient Analytics & Clinical Operations
 
 ## Overview
 This project provides a comprehensive analysis of clinical patient visits, demographic distributions, diagnostic patterns, high-utilizer behaviors, and procedure frequencies. Built using Power BI, the dashboard translates raw healthcare visit logs into actionable insights to optimize clinical operations, resource allocation, and patient care management.
